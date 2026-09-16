@@ -1,0 +1,9 @@
+tensorflow==2.16.1
+setuptools<81
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
